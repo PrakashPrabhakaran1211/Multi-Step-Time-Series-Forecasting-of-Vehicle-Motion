@@ -1,0 +1,10 @@
+matplotlib
+scipy
+keras
+scikit-learn
+pandas
+numpy
+pandas
+xlsxwriter
+
+
